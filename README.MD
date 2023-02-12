@@ -8,6 +8,6 @@ nginx로 구성되어 있습니다.
 
 | Project | Port |
 |---------|------|
-| JGC-WEB | -    |
+| JGC-WEB | 8080 |
 | JGC-API | 8806 |
 
